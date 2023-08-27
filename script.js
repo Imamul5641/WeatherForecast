@@ -1,5 +1,5 @@
-import apiKey from './secrets';
-import access_Key from './secrets';
+// import apiKey from './secrets';
+// import access_Key from './secrets';
 const inputBox = document.querySelector('#place-input');
 const searchBtn = document.getElementById('searchBtn');
 const weather_img = document.querySelector('#weatherIcon');
